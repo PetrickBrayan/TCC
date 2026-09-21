@@ -17,4 +17,4 @@ Tecnologias Previstas:
 ​Firebase Firestore para a sincronização de dados em tempo real.
 ​Bibliotecas de animação para a roleta interativa.
 
-Equipe: Otávio Rodrigues, Petrick Brayan, Lealdo Coelho, Rafael Souza.
+Equipe: Otávio Rodrigues e Petrick Brayan.
